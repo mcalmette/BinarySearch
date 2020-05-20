@@ -31,8 +31,8 @@ The test file is used as a way to ensure that each function works with different
 
 Note: When pulling this repository, you might need to delete the CmakeFiles & cmake_install which are associated with my computer -- these are automatically generated with cmake
 
-# Performance
-For a 10k item list: 
+# 10k items Performance
+ 
 Test Results
 =============
 
