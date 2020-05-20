@@ -31,9 +31,7 @@ The test file is used as a way to ensure that each function works with different
 
 Note: Need to have Cmake installed
 
-# 10k items Performance
- 
-Test Results
+# 10k items Performance - Test Results
 =============
 
   Add Calls...: 10000
