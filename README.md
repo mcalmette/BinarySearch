@@ -29,7 +29,7 @@ Binary Search using a vector collection holding key-value pairs.  The project im
 
 The test file is used as a way to ensure that each function works with different test cases.  The performance file is used to find the speed and number of calls for each function. This can be used with a randomly generated key-value pairs that ranges from 10k pairs to 50k pairs.
 
-Note: When pulling this repository, you might need to delete the CmakeFiles & cmake_install which are associated with my computer -- these are automatically generated with cmake
+Note: Need to have Cmake installed
 
 # 10k items Performance
  
