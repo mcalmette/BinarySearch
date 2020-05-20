@@ -33,25 +33,38 @@ Note: When pulling this repository, you might need to delete the CmakeFiles & cm
 
 # Performance
 For a 10k item list: 
-TEST RESULTS:
+Test Results
 =============
 
   Add Calls...: 10000
+  
   Add Time....: 414253 microseconds
+  
   Add Average.: 41.4253 microseconds
 
+
   Remove Calls...: 2000
+  
   Remove Time....: 35951 microseconds
+  
   Remove Average.: 17.9755 microseconds
 
+
   Find Calls...: 2000
+  
   Find Time....: 0 microseconds
+  
   Find Average.: 0 microseconds
 
+
   Range Calls...: 1
+  
   Range Time....: 10 microseconds
+  
   Range Average.: 10 microseconds
 
   Sort Calls...: 1
+  
   Sort Time....: 953 microseconds
+  
   Sort Average.: 953 microseconds
