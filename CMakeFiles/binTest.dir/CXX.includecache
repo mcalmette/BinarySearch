@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/BinarySearch/binSearch_test.cpp
+iostream
+-
+string
+-
+gtest/gtest.h
+-
+binsearch_collection.h
+/home/student/Desktop/BinarySearch/binsearch_collection.h
+
+/home/student/Desktop/BinarySearch/binsearch_collection.h
+vector
+-
+algorithm
+-
+collection.h
+/home/student/Desktop/BinarySearch/collection.h
+
+/home/student/Desktop/BinarySearch/collection.h
+vector
+-
+

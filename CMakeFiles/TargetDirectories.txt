@@ -1,0 +1,4 @@
+/home/student/Desktop/BinarySearch/CMakeFiles/edit_cache.dir
+/home/student/Desktop/BinarySearch/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/BinarySearch/CMakeFiles/binTest.dir
+/home/student/Desktop/BinarySearch/CMakeFiles/binPerf.dir

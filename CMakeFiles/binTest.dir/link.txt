@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/binTest.dir/binSearch_test.cpp.o  -o binTest -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
